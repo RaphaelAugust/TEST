@@ -1,0 +1,3 @@
+plan
+cond rendering if has account if not .... 
+if has account , link has account => func if account exist , go to router has account , if not error no account
